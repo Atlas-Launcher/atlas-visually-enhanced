@@ -1,0 +1,15 @@
+[metadata]
+name = "voxy-0.2.10-alpha.jar"
+side = "both"
+project_url = "https://modrinth.com/project/fxxUqruK"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "fxxUqruK"
+version = "v6fo0Yan"
+url = "https://cdn.modrinth.com/data/fxxUqruK/versions/v6fo0Yan/voxy-0.2.10-alpha.jar"
+
+[download.hashes]
+sha1 = "891c89967014d289ada5388a73e96f46cce91ba8"
+sha512 = "b028559c989f9b527b570a62c9edfe64257616a5a992c5a7e673b9a8f12867be9f63d136bab592c596fa3e069cf912460d193d723cbb143cf1877f998f26d8ec"

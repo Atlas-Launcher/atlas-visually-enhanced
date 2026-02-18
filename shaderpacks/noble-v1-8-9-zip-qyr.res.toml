@@ -1,0 +1,15 @@
+[metadata]
+name = "Noble v1.8.9.zip"
+side = "client"
+project_url = "https://modrinth.com/project/sclYVqbt"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "sclYVqbt"
+version = "QyRKkpUW"
+url = "https://cdn.modrinth.com/data/sclYVqbt/versions/QyRKkpUW/Noble%20v1.8.9.zip"
+
+[download.hashes]
+sha1 = "a953efc503c92464e8bc77f1e22e38575c4979cd"
+sha512 = "f63c6e4c605dc72e13eb44080efdcfbcde4e783f8177462118870ba56ac17591fe0391d3035fe48f24b143cea621b56ec202677bc3ea78fe949a4b0057551bb5"

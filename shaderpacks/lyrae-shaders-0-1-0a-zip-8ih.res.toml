@@ -1,0 +1,15 @@
+[metadata]
+name = "lyrae-shaders-0.1.0a.zip"
+side = "client"
+project_url = "https://modrinth.com/project/EjUbGcrd"
+disabled_client_oses = []
+
+[download]
+source = "modrinth"
+project_id = "EjUbGcrd"
+version = "8ihbM9j8"
+url = "https://cdn.modrinth.com/data/EjUbGcrd/versions/8ihbM9j8/lyrae-shaders-0.1.0a.zip"
+
+[download.hashes]
+sha1 = "016a2c3a6e9856816d51405a163bc6537b05c60a"
+sha512 = "23087b4663e64d09ed64215c69814791de70f16896f3acbfec291461112cc8bfab4c28b7941f6a4ec30ab4c111956d1ea9b6bacd1bae9dc61532173f4ae96e38"
