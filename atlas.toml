@@ -4,8 +4,8 @@ description = "Atlas starter template"
 
 [versions]
 mc = "1.21.11"
-modloader = "neoforge"
-modloader_version = "21.11.38-beta"
+modloader = "fabric"
+modloader_version = "0.18.4"
 
 [cli]
 hub_url = "https://atlas.nathanm.org"
