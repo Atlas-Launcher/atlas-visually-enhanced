@@ -8,6 +8,9 @@ modloader = "neoforge"
 modloader_version = "21.11.38-beta"
 
 [cli]
-pack_id = "{{PACK_ID}}"
+hub_url = "https://atlas.nathanm.org"
+pack_id = "i15LAF-2l10Ss7itSBfJC"
 default_channel = "dev"
+
+
 
